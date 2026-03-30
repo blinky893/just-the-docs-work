@@ -16,6 +16,8 @@ Technical Author and UX Writer
 
 I design documentation that helps people find information faster and learn skills more easily.
 
+I now also do a lot more programme management.
+
 On this site, you can find:
 - [projects I've worked on](docs/projects/) 
 - [samples of my content](docs/samples/) 
